@@ -24,15 +24,7 @@
 													<div class="product-box">
 																
 															
-																	<div class="col-md-3 item-product bor"> 
-																	<a href="chitietsp.php?id=<?php echo $item['id'] ?>">
-																	<img src="<?php echo uploads() ?>/product/<?php echo $item['thunbar'] ?>" class="" width="300px" height="300px">
-																	</a>
-																	<div class="info-item">
-																	<a href="chitietsp.php?id=<?php echo $item['id'] ?>"><?php echo $item['name'] ?></a><br/>
-																	<p><b class="price"><?php echo formatgia($item['price']) ?></b></p>
 																	
-															    	</div>
 															    	
 																
 														
